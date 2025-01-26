@@ -1,0 +1,49 @@
+{
+  "teams": {
+    "Team 1": {
+      "name": "Team 1",
+      "players": [
+        "John,Smith",
+        "Alexander,Rodriguez"
+      ],
+      "target_name": "Team 3",
+      "is_alive": false
+    },
+    "Team 2": {
+      "name": "Team 2",
+      "players": [
+        "William,Jones",
+        "Isabella,Garcia"
+      ],
+      "target_name": "Team 5",
+      "is_alive": false
+    },
+    "Team 3": {
+      "name": "Team 3",
+      "players": [
+        "Sophia,Brown",
+        "Emma,Johnson"
+      ],
+      "target_name": "Team 5",
+      "is_alive": true
+    },
+    "Team 4": {
+      "name": "Team 4",
+      "players": [
+        "Michael,Williams",
+        "Ava,Martinez"
+      ],
+      "target_name": "Team 3",
+      "is_alive": true
+    },
+    "Team 5": {
+      "name": "Team 5",
+      "players": [
+        "Olivia,Davis",
+        "James,Miller"
+      ],
+      "target_name": "Team 4",
+      "is_alive": true
+    }
+  }
+}
